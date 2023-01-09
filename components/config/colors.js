@@ -1,0 +1,21 @@
+export default{
+    deepskyblue: '#00bfff',
+    maroon :'#800000' ,
+    goldenrod :'#daa520' ,
+    mediumorchid: '#ba55d3',
+    red :'#ff0000' ,
+    salmon :'#fa8072' ,
+    darkorchid: '#9932cc' ,
+    navy :'#000080' ,
+    limegreen: '#32cd32',
+    gold: '#ffd700' ,
+    lightcoral: '#f08080',
+    tomato: '#ff6347',
+    palevioletred :'#db7093',
+    hotpink :'#ff69b4' ,
+    purple :'#800080',
+    white: '#ffffff',
+    black :'#000000',
+    darkslateblue: '#483d8b',
+    lightblue:'#6495ed'
+}
